@@ -38,10 +38,6 @@
 
 ![metadrive-hard-ppo](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/36d5c25f-616b-42fa-af4d-6f0d3a845241)
 
-[TODO: Replace to your figure]
-
-
-
 ## Generalization Experiment
 
 In this section, you need to draw one figure

@@ -54,8 +54,8 @@ Choosing one algorithm, you should train agents in `MetaDrive-Tut-[1,5,10,20,50,
 
 (20 points)
 
-![TD3_generalization](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/c2cd36b3-07e0-4ffc-bf28-e4e906389cc6)
 
+![td3_generalization](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/6a8449d4-d034-4d8d-8214-62b7fab1760a)
 
 
 

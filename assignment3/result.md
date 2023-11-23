@@ -1,8 +1,8 @@
 # Assignment 3 of CS260 2023 Fall
 
-**NAME:** [TODO]
+**NAME:** [PRADUMNA]
 
-**UID:** [TODO]
+**UID:** [306185048]
 
 
 ## Learning curves of TD3
@@ -11,15 +11,14 @@
 
 20 points
 
-[TODO]
+![pendulum-td3](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/cc283548-1126-4d35-8f6b-3fef34c185eb)
 
 
 ### TD3 in MetaDrive-Tut-Hard-v0
 
 20 points
 
-[TODO]
-
+![metadrive-hard-td3](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/34a133c6-d19b-4bae-9e49-7389621e3779)
 
 
 ## Learning curves of PPO
@@ -31,17 +30,13 @@
 
 [TODO: Replace your figure]
 
-![](cartpole-ppo.png)
-
-
-
-
+![cartpole-ppo](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/db98d0a1-dbb0-48b6-81d9-13b0eb721f63)
 
 ### PPO in MetaDrive-Tut-Hard-v0
 
 20 points
 
-![]()
+![metadrive-hard-ppo](https://github.com/pradumna-gautam/cs260r-assignment-2023fall/assets/65444978/36d5c25f-616b-42fa-af4d-6f0d3a845241)
 
 [TODO: Replace to your figure]
 
